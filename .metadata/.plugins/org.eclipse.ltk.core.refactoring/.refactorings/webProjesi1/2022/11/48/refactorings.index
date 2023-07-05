@@ -1,0 +1,36 @@
+1669671276699	Move 'persistence.xml' to 'META-INF'
+1669671599402	Delete element
+1669671604516	Delete element
+1669672096992	Encapsulate field 'num'
+1669672101828	Encapsulate field 'ad'
+1669672105366	Encapsulate field 'soyad'
+1669672108264	Encapsulate field 'yas'
+1669672111846	Encapsulate field 'cinsiyet'
+1669672249500	Encapsulate field 'id'
+1669672254914	Encapsulate field 'sokak'
+1669672258075	Encapsulate field 'cadde'
+1669672352067	Encapsulate field 'okulId'
+1669672355005	Encapsulate field 'okulAdi'
+1669672422541	Encapsulate field 'ogrenci'
+1669674756195	Delete element
+1669675763165	Delete element
+1669675876603	Delete element
+1669675942601	Delete element
+1669676036473	Delete element
+1669676145751	Delete element
+1669676361664	Delete element
+1669753915339	Delete element
+1669754488559	Move 'ogrenci.jsp' to 'WEB-INF'
+1669754536440	Move 'ogrenci.jsp' to 'webapp'
+1669754539916	Move 'ogrenci.jsp' to 'main'
+1669754542478	Move 'ogrenci.jsp' to 'src'
+1669754545836	Move 'ogrenci.jsp' to 'main'
+1669754548274	Move 'ogrenci.jsp' to 'src'
+1669754550337	Move 'ogrenci.jsp' to 'webProjesi1'
+1669754552840	Move 'ogrenci.jsp' to 'src'
+1669754614465	Move 'ogrenci.jsp' to 'java'
+1669754622674	Move 'ogrenci.jsp' to 'main'
+1669754624625	Move 'ogrenci.jsp' to 'WEB-INF'
+1669754627571	Move 'ogrenci.jsp' to 'main'
+1669754674685	Delete element
+1669754722979	Delete element

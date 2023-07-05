@@ -1,0 +1,6 @@
+#Tue Nov 29 00:47:26 TRT 2022
+__DEFAULT__=false
+expression=jboss
+org.eclipse.help.ui.localSearch.master=true
+org.eclipse.sdk.Eclipse.master=true
+org.eclipse.sdk.Google.master=true
